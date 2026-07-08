@@ -15,7 +15,7 @@ It was a fun way to learn how to work with APIs, asynchronous JavaScript, enviro
 - Shows the title and full explanation
 - Loading state while data is being fetched
 - Basic error handling if something goes wrong
-- Responsive layout
+- Responsive layout 
 
 ---
 
