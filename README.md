@@ -1,4 +1,4 @@
-# 🌌 Daily APOD
+# Daily APOD
 
 A small project I built using JavaScript and the NASA Astronomy Picture of the Day (APOD) API.
 
@@ -8,7 +8,7 @@ It was a fun way to learn how to work with APIs, asynchronous JavaScript, enviro
 
 ---
 
-## ✨ Features
+## Features
 
 - 🌠 Fetches NASA's Astronomy Picture of the Day
 - 🖼️ Displays both images and videos
@@ -19,7 +19,7 @@ It was a fun way to learn how to work with APIs, asynchronous JavaScript, enviro
 
 ---
 
-## 🛠️ Built With
+## Built With
 
 - HTML
 - CSS
@@ -29,7 +29,7 @@ It was a fun way to learn how to work with APIs, asynchronous JavaScript, enviro
 
 ---
 
-## 🚀 Running Locally
+## Running Locally
 
 Clone the repository:
 
@@ -59,7 +59,7 @@ Open the local URL shown in your terminal.
 
 ---
 
-## 🌍 Deployment
+## Deployment
 
 This project is deployed using GitHub Pages.
 
@@ -71,15 +71,7 @@ npm run build
 
 Then deploy the generated `dist` folder (or use GitHub Actions).
 
----
-
-## 📸 Screenshots
-
-_Add a screenshot of the homepage here._
-
----
-
-## 💡 What I Learned
+## What I Learned
 
 This project helped me understand:
 
@@ -92,7 +84,7 @@ This project helped me understand:
 
 ---
 
-## 📚 API
+## API
 
 This project uses NASA's public Astronomy Picture of the Day API.
 
@@ -100,6 +92,6 @@ https://api.nasa.gov/
 
 ---
 
-## 🙌 Acknowledgements
+## Acknowledgements
 
 Thanks to NASA for providing the APOD API and making space data freely available for developers and students to build with.
