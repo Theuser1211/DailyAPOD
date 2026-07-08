@@ -10,12 +10,12 @@ It was a fun way to learn how to work with APIs, asynchronous JavaScript, enviro
 
 ## Features
 
-- 🌠 Fetches NASA's Astronomy Picture of the Day
-- 🖼️ Displays both images and videos
-- 📖 Shows the title and full explanation
-- ⚡ Loading state while data is being fetched
-- ❌ Basic error handling if something goes wrong
-- 📱 Responsive layout
+- Fetches NASA's Astronomy Picture of the Day
+- Displays both images and videos
+- Shows the title and full explanation
+- Loading state while data is being fetched
+- Basic error handling if something goes wrong
+- Responsive layout
 
 ---
 
